@@ -19,14 +19,6 @@ React.js, Node.js
 
 ---
 
-### 📫 How to reach me  
-📧 dabasarajay8@gmail.com  
-🔗 [Portfolio](https://your-portfolio-link.com)  
-📝 [Blog](https://your-blog-link.com)  
-📄 [Resume](https://your-resume-link.com)
-
----
-
 ### ⚡ Fun fact  
 I think I am funny 😄
 
