@@ -5,7 +5,7 @@
 ---
 
 ### 🔭 I’m currently working on  
-[E-commerce web (eTrade)](http://localhost:3000/)
+[E-commerce web (eTrade)](https://github.com/Jay-Dabasara/ecommerce)
 
 ---
 
