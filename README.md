@@ -15,7 +15,7 @@ MongoDB
 ---
 
 ### 💬 Ask me about  
-React.js, Node.js
+React.js
 
 ---
 
